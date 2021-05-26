@@ -1,1 +1,1 @@
-# pattern
+Currently only three letters are available(a,r,z) And others are in development. Run strt command and then enter a word containing only above letters to see the pattern.
